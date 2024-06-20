@@ -1,6 +1,6 @@
 # Neural_Network_Predictive_Modeling
-## This project was created in collaboration with members of my cohort in the Data Science Bootcamp at Soouthern Methodist University.
-## View all notebooks here: https://github.com/Focused79/project4_bad_mother_clusters
+# This project was created in collaboration with members of my cohort in the Data Science Bootcamp at Southern Methodist University.
+# View all notebooks here: https://github.com/Focused79/project4_bad_mother_clusters
 
 
 ![PrestigeWhirldWind](https://github.com/Focused79/project4_bad_mother_clusters/assets/152096353/512d8d52-55da-4287-8323-6438d25b5a5e)
